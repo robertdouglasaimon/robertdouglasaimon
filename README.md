@@ -4,15 +4,15 @@ Bem-vindo ao meu espaço de experimentação e aprendizado! Aqui, você encontra
 Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estudando Javascript e React JS. Aqui você encontrará alguns dos meus projetos e experimentos.
 
 ## Minhas Habilidades
-- HTML, CSS, JavaScript
-- [Outras tecnologias...]
+- ![robertdouglasaimon](https://github-readme-stats.vercel.app/api?username=robertdouglasaimon&show_icons=true)
+  ![Robert Douglas HTML CSS JAVASCRIPT](https://github-readme-stats.vercel.app/api/top-langs/?username=robertdouglasaimon)
 
 ## Projetos Destacados
-1. [Projeto 1](link)
-2. [Projeto 2](link)
+1. <a href="https://robertdouglasaimon.github.io/PROJETO-BLOG-PESSOAL/">[Projeto 1]</a>
+2. <a href="https://robertdouglasaimon.github.io/PROJETO-PRIMEIRO-SITE/">[Projeto 2]</a>
 
 ## Onde Me Encontrar
-- [LinkedIn]
-- [Outras redes...]
+- <a href="https://www.linkedin.com/in/robertdouglas2000/">[LinkedIn]</a>
+- <a href="https://www.instagram.com/rd_ciclo/">[Outras redes...]</a>
 
 Sinta-se à vontade para explorar e entrar em contato! 😊
