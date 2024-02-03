@@ -6,7 +6,12 @@ Sou apaixonado por tecnologia e desenvolvimento de páginas web. Atualmente, est
 ## Minhas Habilidades
 - ![robertdouglasaimon](https://github-readme-stats.vercel.app/api?username=robertdouglasaimon&show_icons=true)
 - ![Robert Douglas HTML CSS JAVASCRIPT](https://github-readme-stats.vercel.app/api/top-langs/?username=robertdouglasaimon)
-- ![image](https://github.com/robertdouglasaimon/robertdouglasaimon/assets/138529257/31bae8d5-52af-4d8c-bb16-21d17a9a4530) ![image](https://github.com/robertdouglasaimon/robertdouglasaimon/assets/138529257/0cb675fb-2541-4152-8c45-2dec1f3174a3) ![image](https://github.com/robertdouglasaimon/robertdouglasaimon/assets/138529257/8b6b2ee0-ec38-466a-934b-6aa629edf723)
+  
+- ![image](https://github.com/robertdouglasaimon/robertdouglasaimon/assets/138529257/db1d807f-a8a2-4e56-90f5-a82af6eda632)
+){: width="50" height="50"}
+  ![image](https://github.com/robertdouglasaimon/robertdouglasaimon/assets/138529257/d018be76-1b81-4ab7-a085-f6d4be9a255a){: width="50" height="50"}
+
+  ![image](https://github.com/robertdouglasaimon/robertdouglasaimon/assets/138529257/0f9b676d-c2b5-438a-8faa-e5b27b050ee6){: width="50" height="50"}
 
 
 
