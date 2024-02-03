@@ -12,7 +12,8 @@ Sou apaixonado por tecnologia e desenvolvimento de páginas web. Atualmente, est
 2. <a href="https://robertdouglasaimon.github.io/PROJETO-PRIMEIRO-SITE/">[Projeto 2]</a>
 
 ## Onde Me Encontrar
-- <a href="https://www.linkedin.com/in/robertdouglas2000/">[LinkedIn]</a>
+- <a href="https://www.linkedin.com/in/robertdouglas2000/">![image](https://github.com/robertdouglasaimon/robertdouglasaimon/assets/138529257/56fdf478-09ed-4580-bf3c-94a16ca23573)
+</a>
 - <a href="https://www.instagram.com/rd_ciclo/">[Outras redes...]</a>
 
 Sinta-se à vontade para explorar e entrar em contato! 😊
