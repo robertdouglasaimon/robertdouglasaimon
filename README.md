@@ -27,5 +27,3 @@ Apaixonado por tecnologia e tudo relacionado a esse mundo. Atualmente, estudando
 </a>
 <a href="mailto:robertdouglasaimon@gmail.com">![image](https://github.com/robertdouglasaimon/robertdouglasaimon/assets/138529257/c1279e40-135f-4ca9-9711-b7eb38effc30)
 </a>
-
-Sinta-se à vontade para explorar e entrar em contato! 😊
