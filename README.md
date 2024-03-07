@@ -4,8 +4,9 @@ Bem-vindo ao meu espaço de experimentação e aprendizado! Aqui, você encontra
 Apaixonado por tecnologia e tudo relacionado a esse mundo. Atualmente, estudando Javascript. Aqui você encontrará alguns dos meus projetos e experimentos.
 
 ## Minhas Habilidades
-![robertdouglasaimon](https://github-readme-stats.vercel.app/api?username=robertdouglasaimon&show_icons=true width="400")
-![Robert Douglas HTML CSS JAVASCRIPT](https://github-readme-stats.vercel.app/api/top-langs/?username=robertdouglasaimon width="400")
+<img src="https://github-readme-stats.vercel.app/api?username=robertdouglasaimon&show_icons=true" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertdouglasaimon" width="400">
+
 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" height="30">
