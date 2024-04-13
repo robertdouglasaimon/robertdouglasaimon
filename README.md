@@ -19,7 +19,7 @@ Apaixonado por tecnologia e tudo relacionado a esse mundo. Atualmente, estudando
 
 ## Projetos Destacados
 1. <a href="https://robertdouglasaimon.github.io/PROJETO-BLOG-PESSOAL/">[Projeto 1]</a>
-2. <a href="https://robertdouglasaimon.github.io/PROJETO-PRIMEIRO-SITE/">[Projeto 2]</a>
+2. <a href="https://robertdouglasaimon.github.io/projeto-microsite/">[Projeto 2]</a>
 3. <a href="https://robertdouglasaimon.github.io/PROJETO-TURMA-DE--DESENVOLVIMENTO--PYTHON/">[Projeto 3]</a>
 
 ## Onde Me Encontrar
