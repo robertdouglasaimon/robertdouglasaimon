@@ -11,7 +11,7 @@ Apaixonado por tecnologia e tudo relacionado a esse mundo. Atualmente, estudando
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" height="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap4/bootstrap4-plain.svg" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30">
 
 
 
