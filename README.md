@@ -1,7 +1,7 @@
 # Olá, eu sou Robert! 👋
 Bem-vindo ao meu espaço de experimentação e aprendizado! Aqui, você encontrará uma coleção de projetos, desafios e exercícios relacionados ao universo da programação. Desde a minha incursão inicial com HTML, CSS e JavaScript até os projetos mais recentes, cada linha de código reflete meu comprometimento em aprender e evoluir.  Seja você um novato curioso ou um colega desenvolvedor, explore livremente e sinta-se à vontade para contribuir ou entrar em contato. A jornada está em constante evolução, e estou ansioso para compartilhar cada passo desse percurso. 💡🚀
 
-Apaixonado por tecnologia e tudo relacionado a esse mundo. Atualmente, estudando Javascript. Aqui você encontrará alguns dos meus projetos e experimentos.
+Apaixonado por tecnologia e tudo relacionado a esse mundo. Atualmente, estudando Typescript e Bootstrap 4. Aqui você encontrará alguns dos meus projetos e experimentos.
 
 ## Minhas Habilidades
 <img src="https://github-readme-stats.vercel.app/api?username=robertdouglasaimon&show_icons=true" width="400">
