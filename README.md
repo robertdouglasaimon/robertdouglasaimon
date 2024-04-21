@@ -20,9 +20,9 @@ Apaixonado por tecnologia e tudo relacionado a esse mundo. Atualmente, estou est
 
 
 ## Projetos Destacados
-1. <a href="https://robertdouglasaimon.github.io/PROJETO-BLOG-PESSOAL/">[Projeto 1]</a>
+1. <a href="https://robertdouglasaimon.github.io/projeto-diariopessoal-de-esportes/">[Projeto 1]</a>
 2. <a href="https://robertdouglasaimon.github.io/projeto-microsite/">[Projeto 2]</a>
-3. <a href="https://robertdouglasaimon.github.io/PROJETO-TURMA-DE--DESENVOLVIMENTO--PYTHON/">[Projeto 3]</a>
+3. <a href="https://robertdouglasaimon.github.io/projeto-turma-de-desenvolvimento-python/">[Projeto 3]</a>
 
 ## Onde Me Encontrar
 <a href="https://www.linkedin.com/in/robertdouglas2000/">![image](https://github.com/robertdouglasaimon/robertdouglasaimon/assets/138529257/56fdf478-09ed-4580-bf3c-94a16ca23573)
