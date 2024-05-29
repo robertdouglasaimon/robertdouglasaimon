@@ -4,20 +4,14 @@ Bem-vindo ao meu espaço de experimentação e aprendizado! Aqui, você encontra
 Apaixonado por tecnologia e tudo relacionado a esse mundo. Atualmente, estou estudando Typescript e Bootstrap 4. Aqui você encontrará alguns dos meus projetos e experimentos.
 
 ## Minhas Habilidades
-<img src="https://github-readme-stats.vercel.app/api?username=robertdouglasaimon&show_icons=true" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertdouglasaimon" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=robertdouglasaimon&show_icons=true&token=YOUR_PERSONAL_ACCESS_TOKEN" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertdouglasaimon&token=YOUR_PERSONAL_ACCESS_TOKEN" width="400">
 
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" height="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="30" height="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30">
-
-
-
-
-
-
 
 ## Projetos Destacados
 1. <a href="https://robertdouglasaimon.github.io/projeto-diariopessoal-de-esportes/">[Projeto 1]</a>
