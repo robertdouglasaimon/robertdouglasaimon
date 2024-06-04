@@ -4,6 +4,9 @@ Bem-vindo ao meu espaço de experimentação e aprendizado! Aqui, você encontra
 Apaixonado por tecnologia e tudo relacionado a esse mundo. Atualmente, estou estudando Typescript e Bootstrap 4. Aqui você encontrará alguns dos meus projetos e experimentos.
 
 ## Minhas Habilidades
+
+[![VitrineDEV](https://img.shields.io/badge/VitrineDEV-0000FF?style=for-the-badge&logo=alura&logoColor=FFFFFF)](https://cursos.alura.com.br/vitrinedev/robertdouglasaimon)
+
 <img src="https://github-readme-stats.vercel.app/api?username=robertdouglasaimon&show_icons=true&token=YOUR_PERSONAL_ACCESS_TOKEN" width="400">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertdouglasaimon&token=YOUR_PERSONAL_ACCESS_TOKEN" width="400">
 
