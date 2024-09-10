@@ -20,9 +20,9 @@ Apaixonado por tecnologia e tudo relacionado a esse mundo. Atualmente, estou est
 
 
 ## Projetos Destacados
-1. <a href="#">[Projeto 1]</a>
-2. <a href="#">[Projeto 2]</a>
-3. <a href="#">[Projeto 3]</a>
+1. <a href="https://portfolio-r-douglas.vercel.app">[Projeto 1]</a>
+2. <a href="https://projeto-turma-de-desenvolvimento-python.vercel.app">[Projeto 2]</a>
+3. <a href="https://p-fokus.vercel.app">[Projeto 3]</a>
 
 ## Onde Me Encontrar
 <a href="https://www.linkedin.com/in/robertdouglas2000/">![image](https://github.com/robertdouglasaimon/robertdouglasaimon/assets/138529257/56fdf478-09ed-4580-bf3c-94a16ca23573)
