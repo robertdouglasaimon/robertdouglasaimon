@@ -20,7 +20,7 @@ Apaixonado por tecnologia e tudo relacionado a esse mundo. Atualmente, estou est
 
 
 ## Projetos Destacados
-1. <a href="https://portfolio-r-douglas.vercel.app" target="_blank">[Projeto 1]</a>
+1. <a href="https://r-douglas.vercel.app" target="_blank">[Projeto 1]</a>
 2. <a href="https://projeto-turma-de-desenvolvimento-python.vercel.app" target="_blank">[Projeto 2]</a>
 3. <a href="https://p-fokus.vercel.app" target="_blank">[Projeto 3]</a>
 
