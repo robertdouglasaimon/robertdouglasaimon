@@ -10,6 +10,7 @@ Apaixonado por tecnologia e tudo relacionado a esse mundo. Atualmente, estou est
 <img src="https://github-readme-stats.vercel.app/api?username=robertdouglasaimon&show_icons=true&token=YOUR_PERSONAL_ACCESS_TOKEN" width="400">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertdouglasaimon&token=YOUR_PERSONAL_ACCESS_TOKEN" width="400">
 
+# Desenvolvimento Web (FRONT-END)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" height="30"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="30" height="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"> 
@@ -17,6 +18,17 @@ Apaixonado por tecnologia e tudo relacionado a esse mundo. Atualmente, estou est
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30">
+
+# Data Science
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30">
+<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="30" height="30">
+<img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="30" height="30">
+<img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30" height="30">
+
+# SQL
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30">
+
 
 
 ## Projetos Destacados
