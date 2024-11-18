@@ -19,7 +19,7 @@ Apaixonado por tecnologia e tudo relacionado a esse mundo. Atualmente, estou est
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="30" height="30"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="30" height="30"> <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30" height="30"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30">
 
 
 
