@@ -19,7 +19,8 @@ Apaixonado por tecnologia e tudo relacionado a esse mundo. Atualmente, estou est
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" height="30">
+
 
 
 
