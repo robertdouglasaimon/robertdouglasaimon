@@ -35,21 +35,11 @@ Sou movido por desafios e pela vontade de transformar ideias em soluções reais
 <!-- Tecnologias -->
 <br>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" height="30">
 
 ## Projetos Destacados
 
